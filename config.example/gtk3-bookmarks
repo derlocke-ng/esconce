@@ -1,0 +1,8 @@
+# Nautilus sidebar bookmarks (GTK3 format)
+# One bookmark per line: file:///path Name
+#
+# Example:
+# sftp://sh3-id-debian-luks/home/user home@idl
+# file:///var/home/user/Documents Documents
+# file:///var/home/user/games Games
+# file:///var/home/user/projects Projects

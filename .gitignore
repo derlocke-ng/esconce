@@ -1,0 +1,11 @@
+# Esconce — personal config (created via --init)
+/config/
+
+# Keep these committed (templates for others)
+!/config.example/
+
+# Editor / OS junk
+*.swp
+*.swo
+*~
+.DS_Store
