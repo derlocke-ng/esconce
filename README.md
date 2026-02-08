@@ -1,7 +1,5 @@
 # Esconce
 
-> **esconce** /ɪˈskɒns/ — *to establish or settle comfortably and firmly*
-
 Modular post-installation setup for [Bluefin-DX](https://projectbluefin.io/).
 
 Esconce transforms a fresh Bluefin installation into your fully configured
